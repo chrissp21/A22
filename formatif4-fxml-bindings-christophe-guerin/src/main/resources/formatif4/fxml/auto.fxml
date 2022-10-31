@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="131.0" prefWidth="130.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="formatif4.controleur.AutoController">
+   <children>
+      <Label text="Masse" />
+      <TextField fx:id="masseTextField" maxWidth="100.0" prefWidth="30.0" VBox.vgrow="ALWAYS" />
+      <Label text="Force" />
+      <TextField fx:id="forceTextField" maxWidth="100.0" prefWidth="30.0" VBox.vgrow="ALWAYS" />
+      <Label text="Sorte" />
+      <TextField fx:id="sorteTextField" maxWidth="100.0" prefWidth="30.0" VBox.vgrow="ALWAYS" />
+   </children>
+</VBox>

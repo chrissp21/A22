@@ -1,0 +1,12 @@
+Garage :
+null
+null
+null
+null
+Stationnement :
+Automobile{NIP='A', etatTransmission=TRES_BRISE, etatCarosserie=BRISE, etatMoteur=NEUF, etatHabitacle=TRES_BRISE}
+Camion{NIP='B', etatTransmission=BRISE, etatCarosserie=NEUF, etatMoteur=BRISE, etatEspaceCargaison=BRISE}
+Automobile{NIP='C', etatTransmission=NEUF, etatCarosserie=TRES_BRISE, etatMoteur=NEUF, etatHabitacle=NEUF}
+Moto{NIP='D', etatTransmission=NEUF, etatMoteur=BRISE}
+null
+null
